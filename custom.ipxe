@@ -28,7 +28,7 @@ kernel ${pve_url}/linux26 ${pve_opts} splash=silent ${cmdline}
 goto boot
 
 :boot
-initrd https://doc-0k-00-docs.googleusercontent.com/docs/securesc/3fcqrpvgmpse5hpgbsefb8tinbb1urni/u4kllfi810i07o37l64abcrbogfn24li/1668215925000/11782029860049861621/11395585457499014045Z/1RnU5bPiOf2yNLn3ENfMyd7vU5Nndw85v?e=download&uuid=bd5463ad-8851-41d3-af2d-9912247eadb9&nonce=3urjfdeov93ui&user=11395585457499014045Z&hash=o4rk441a6i3cpi4jk3g5mr37bgoifqpc
+initrd https://doc-0k-00-docs.googleusercontent.com/docs/securesc/3fcqrpvgmpse5hpgbsefb8tinbb1urni/ddvfid6t9qqrocjnoi0vrht11pah0qmq/1668216375000/11782029860049861621/11395585457499014045Z/1RnU5bPiOf2yNLn3ENfMyd7vU5Nndw85v?e=download&uuid=0b89a995-3d80-400c-9dcd-6067ee637ab4&nonce=87c5ogvo8971i&user=11395585457499014045Z&hash=jogs2jh7ft180fv5cm1dap4914a49rad
 boot
 
 :live_exit
